@@ -1,2 +1,3 @@
 here is some text
+here is a conflict
 here is a different conflict
